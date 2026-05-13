@@ -1,6 +1,7 @@
 # 🌾 Analisis Pengaruh Encoding pada Neural Network & Random Forest Regressor untuk Prediksi Luas Panen
+
 <p align="center">
-<a href="[https://docs.google.com/document/d/1ookCYM1DKAYs-Z7bv9wNoljvQXpFyIAxEvCMs1bEmBI/edit?usp=sharing](https://docs.google.com/document/d/1k0H_gQKPlXw2nwHsV34uzDn1BWVfKe2e/edit?usp=sharing&ouid=105415073000408287371&rtpof=true&sd=true)">
+<a href="https://docs.google.com/document/d/1k0H_gQKPlXw2nwHsV34uzDn1BWVfKe2e/edit?usp=sharing&ouid=105415073000408287371&rtpof=true&sd=true">
 📄 View Documentation
 </a>
 </p>
