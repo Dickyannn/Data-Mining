@@ -1,4 +1,9 @@
 # 🌾 Analisis Pengaruh Encoding pada Neural Network & Random Forest Regressor untuk Prediksi Luas Panen
+<p align="center">
+<a href="[https://docs.google.com/document/d/1ookCYM1DKAYs-Z7bv9wNoljvQXpFyIAxEvCMs1bEmBI/edit?usp=sharing](https://docs.google.com/document/d/1k0H_gQKPlXw2nwHsV34uzDn1BWVfKe2e/edit?usp=sharing&ouid=105415073000408287371&rtpof=true&sd=true)">
+📄 View Documentation
+</a>
+</p>
 
 Perubahan iklim berdampak langsung terhadap hasil panen, sehingga diperlukan model prediksi yang andal berbasis data iklim. Penelitian ini membandingkan dua algoritma machine learning: **Neural Network (NN)** dan **Random Forest Regressor (RFR)** dalam memprediksi luas panen, dengan fokus pada pengaruh metode encoding data.
 
